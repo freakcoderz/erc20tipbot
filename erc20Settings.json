@@ -7,15 +7,15 @@
 
     "coin": {
         "type": "erc20",
-        "symbol": "ERC",
+        "symbol": "FREAK",
         "decimals": 18,
         "withdrawFee": 1,
         "mintip": 0.01,
-        "infura": "wss://mainnet.infura.io/ws/v3/ID",
+        "infura": "https://rpc.octano.dev",
         "keys": "/home/tipbot/.ethereum/keystore/",
         "addresses": {
             "wallet": "0x0000000000000000000000000000000000000000",
-            "contract": "0x0000000000000000000000000000000000000000"
+            "contract": "0x823803ec07a4f524d5d01f07cda4b7e815b9f005"
         }
     },
 
